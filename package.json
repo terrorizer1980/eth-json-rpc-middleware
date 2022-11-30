@@ -33,7 +33,7 @@
     "eth-rpc-errors": "^4.0.3",
     "eth-sig-util": "^1.4.2",
     "json-rpc-engine": "^6.1.0",
-    "json-stable-stringify": "^1.0.1",
+    "json-stable-stringify": "^1.0.2",
     "node-fetch": "^2.6.1",
     "pify": "^3.0.0"
   },
